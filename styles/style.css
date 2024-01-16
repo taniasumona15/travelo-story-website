@@ -456,7 +456,7 @@ line-height: 30px;
 
 
 .newsletter_img{
-    position: relative;
+    position: relative; 
 
 }
 
@@ -540,6 +540,7 @@ border-radius: 8px;
 background: rgba(19, 19, 24, 0.05);
 border: none;
 }
+
 
 
 .footer{
@@ -710,6 +711,7 @@ flex-direction: column;}
 
 
 .newsletter_side{
+
    
 width: 35%;
 padding-left: 15px;
